@@ -71,7 +71,7 @@ const replaced = replaceAll(str, " ", "_" ) // replaced is of type "The_quick_br
 - `toUpperCase` ✅
 - `toArray` ✅
 - `slice` ✅
-  - > This is a partial implementation of `slice` and does not support negative indices
+  - This is a partial implementation of `slice` and does not support negative indices
 - `uncapitalize` ✅
 - `capitalize` ✅
 - `prefix` ✅
@@ -81,7 +81,7 @@ const replaced = replaceAll(str, " ", "_" ) // replaced is of type "The_quick_br
 - `trimStart` ✅
 - `trimEnd` ✅
 - `replaceAll` ✅
-  - > This is a partial implementation of `replaceAll` and does not support regex
+  - This is a partial implementation of `replaceAll` and does not support regex
 - `replace` ✅
-  - > This is a partial implementation of `replace` and does not support regex
+  - This is a partial implementation of `replace` and does not support regex
 - `length` ✅
